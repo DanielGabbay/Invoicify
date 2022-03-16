@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "28020524525",
+    "project_id": "invoicify22-daniel",
+    "storage_bucket": "invoicify22-daniel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28020524525:android:a4f0a32fc09b82939153e4",
+        "android_client_info": {
+          "package_name": "com.danielgabbay.invoicify22"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28020524525-7d6h45kos420trnua6pdt6h1hh054uq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.danielgabbay.invoicify22",
+            "certificate_hash": "e03cd905c0e082cbe7f6b7e3068772a614a02d98"
+          }
+        },
+        {
+          "client_id": "28020524525-cisgul9lft9f1bf96rtrm015u7te8oot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOGdl2rWL7K6l8k1QfiDCCL8lZUYiEzTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28020524525-cisgul9lft9f1bf96rtrm015u7te8oot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

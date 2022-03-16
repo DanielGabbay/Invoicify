@@ -1,0 +1,34 @@
+buildscript {
+    ext.kotlin_version = "1.6.10"
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.1.2'
+        classpath 'com.google.gms:google-services:4.3.10'
+        classpath 'com.github.dcendents:android-maven-gradle-plugin:2.1'
+
+    }
+}
+
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+plugins {
+    id 'com.android.application' version '7.1.0' apply false
+    id 'com.android.library' version '7.1.0' apply false
+    id 'org.jetbrains.kotlin.android' version "$kotlin_version" apply false
+}
+
+allprojects {
+    repositories{
+        repositories {
+            google()
+            jcenter()
+            maven { url "https://maven.google.com/"}
+            maven { url "https://jitpack.io" }
+            maven {url 'https://maven.fabric.io/public'}
+            maven {url 'https://sdk.uxcam.com/android/'}
+            maven { url 'https://zendesk.jfrog.io/zendesk/repo' }
+        }
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

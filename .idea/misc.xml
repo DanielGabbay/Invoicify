@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../layout/custom_preview.xml" value="0.39739583333333334" />
+        <entry key="app/src/main/res/drawable-v24/border.xml" value="0.198" />
+        <entry key="app/src/main/res/drawable-v24/ic_info.xml" value="0.2665" />
+        <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.2009765625" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.4320470174153646" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.13043478260869565" />
+        <entry key="app/src/main/res/layout/activity_main_container.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/dialog_loading.xml" value="0.2604166666666667" />
+        <entry key="app/src/main/res/layout/dialog_select_year_month.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/fragment_add_invoice.xml" value="0.2726449275362319" />
+        <entry key="app/src/main/res/layout/fragment_invoices_viewer.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/fragment_pdf_viewer.xml" value="0.26145833333333335" />
+        <entry key="app/src/main/res/layout/fragment_viewer.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/fragment_welcome.xml" value="0.2025089605734767" />
+        <entry key="app/src/main/res/layout/listview_invoices_item.xml" value="0.33273620605468746" />
+        <entry key="app/src/main/res/layout/nav_header.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/recycleritem_invoice_data.xml" value="0.16354166666666667" />
+        <entry key="app/src/main/res/layout/recyclerview_invoices_item.xml" value="0.5289708013119905" />
+        <entry key="app/src/main/res/menu/nav_manu.xml" value="0.35989583333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
